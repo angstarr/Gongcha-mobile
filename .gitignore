@@ -1,0 +1,10 @@
+
+*.txt
+
+*.zip
+
+*.url
+
+node_modules/
+
+package-lock.json
